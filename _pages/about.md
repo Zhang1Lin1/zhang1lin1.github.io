@@ -17,14 +17,18 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-A1.
+Zhang Lin has conducted in-depth research in the fields of structural design, fatigue and fracture of complex equipment, and has expanded to the analysis of mechanical properties and key numerical methods of complex equipment. Long term focus on the field of structural integrity design for advanced transport tools.
+
+Adhering to the research concept of "Taoistic Thought Emulates Nature", by studying the service environment of structures, revealing the mechanism of structural failure, improving structural integrity, and achieving green research and development of complex equipment.
 
 A2 with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a>.
 
+# 🔥 Research Interests
+My research interest is the fatigue mechanism and life prediction methods of complex equipment structures, focusing on the research of fatigue mechanism and life prediction methods in the field of advanced transportation tools and key equipment such as rail vehicles and aircraft.
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 A3. 
-- *2022.02*: &nbsp;🎉🎉 A4. 
+- Critical CAE Technique: &nbsp;🎉🎉 Virtual fatigue testing technology for structural fatigue and fracture. 
+- OL and UL: &nbsp;🎉🎉 Overload and unerload function.
+- da/dN: &nbsp;🎉🎉 Crack propagation driving force. 
 
 # 📝 Publications 
 
@@ -54,5 +58,5 @@ A2 with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>g
 - *2021.06*, A12. 
 - *2021.03*, A13  \| [\[video\]](https://github.com/)
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 💻 Academic part-time jobs
+- Youth Editorial Board Member, [Railway Vehicles](https://github.com/), [Smart Rail Transit](https://github.com/).
