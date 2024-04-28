@@ -21,8 +21,6 @@ Zhang Lin has conducted in-depth research in the fields of structural design, fa
 
 Adhering to the research concept of "Taoistic Thought Emulates Nature", by studying the service environment of structures, revealing the mechanism of structural failure, improving structural integrity, and achieving green research and development of complex equipment.
 
-#A2 with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a>.
-
 # 🔥 Research Interests
 My research interest is the fatigue mechanism and life prediction methods of complex equipment structures, focusing on the research of fatigue mechanism and life prediction methods in the field of advanced transportation tools and key equipment such as rail vehicles and aircraft.
 
