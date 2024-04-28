@@ -32,7 +32,7 @@ My research interest is the fatigue mechanism and life prediction methods of com
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">INT J FATIGUE 2023</div><img src='images/IJF.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">INT J FATIGUE 2023</div><img src='images/IJF.jpg' alt="sym" width="60%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Lin Zhang**, Xiaohui Wei.
