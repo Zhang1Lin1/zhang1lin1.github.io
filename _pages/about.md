@@ -52,12 +52,10 @@ My research interest is the fatigue mechanism and life prediction methods of com
 - *2018.09* Youth Teacher Classroom Teaching Competition, Third Prize, Changchun Normal University.
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, A10. 
-- *2015.09 - 2019.06*, A11. 
+- *2019.04 - 2022.10*, Nanjing University of Aeronautics and Astronautics, Aircraft Design and Engineering, Doctoral students. 
 
 # 💬 Invited Talks
-- *2021.06*, A12. 
-- *2021.03*, A13  \| [\[video\]](https://github.com/)
+- *2021.09*, International Symposium on Structural Integrity, Oral Presentation. 
 
 # 💻 Academic part-time jobs
 - Youth Editorial Board Member, [Railway Vehicles](https://github.com/), [Smart Rail Transit](https://github.com/).
