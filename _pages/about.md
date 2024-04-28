@@ -47,7 +47,7 @@ My research interest is the fatigue mechanism and life prediction methods of com
 - [A7](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2023.10* Information technology innovation education and teaching, third prize, Liaoning Provincial Department of Education. 
+- *2023.10* Information Technology Innovation Education and Teaching, Liaoning Provincial Department of Education. 
 - *2022.09* Best Research Award, Young Scientist Award.
 - *2018.09* Youth Teacher Classroom Teaching Competition, Third Prize, Changchun Normal University.
 
