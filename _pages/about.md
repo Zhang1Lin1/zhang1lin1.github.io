@@ -32,7 +32,7 @@ My research interest is the fatigue mechanism and life prediction methods of com
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">INT J FATIGUE 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">INT J FATIGUE 2023</div><img src='images/IJF.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Lin Zhang**, Xiaohui Wei.
@@ -43,7 +43,7 @@ My research interest is the fatigue mechanism and life prediction methods of com
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">THEOR APPL FRACT MEC 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">THEOR APPL FRACT MEC 2023</div><img src='images/TAFM.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Lin Zhang**, Xiaohui Wei.
@@ -54,7 +54,7 @@ My research interest is the fatigue mechanism and life prediction methods of com
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MECH MATER 2022</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MECH MATER 2022</div><img src='images/MM.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Lin Zhang**, Xiaohui Wei.
@@ -65,7 +65,7 @@ My research interest is the fatigue mechanism and life prediction methods of com
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ENG FAIL ANAL 2022</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ENG FAIL ANAL 2022</div><img src='images/EFA.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Lin Zhang**, Xiaohui Wei.
