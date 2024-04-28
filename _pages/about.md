@@ -86,4 +86,4 @@ My research interest is the fatigue mechanism and life prediction methods of com
 - *2021.09*, International Symposium on Structural Integrity, Oral Presentation. 
 
 # 💻 Academic part-time jobs
-- Youth Editorial Board Member, [Railway Vehicles](https://github.com/), [Smart Rail Transit](https://github.com/).
+- Youth Editorial Board Member, **Railway Vehicles**, **Smart Rail Transit**.
