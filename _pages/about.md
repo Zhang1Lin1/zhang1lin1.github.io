@@ -35,16 +35,46 @@ My research interest is the fatigue mechanism and life prediction methods of com
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[A5](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+**Lin Zhang**, Xiaohui Wei.
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+- Crack growth life calculation approach of surface cracked landing gear strut under eccentric compression load by bulging effect[J]. **International journal of fatigue, 2023**.
+- [**10.1016/j.ijfatigue.2023.107652**](https://www.sciencedirect.com/science/article/abs/pii/S0142112323001536) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- A6. 
 </div>
 </div>
 
-- [A7](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Lin Zhang**, Xiaohui Wei.
+
+- A modified formula for cyclic compression crack growth model considering compressive load effect[J]. **Theoretical and Applied Fracture Mechanics, 2023**.
+- [**10.1016/j.tafmec.2023.103865**](https://www.sciencedirect.com/science/article/abs/pii/S0167844223001283) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Lin Zhang**, Xiaohui Wei.
+
+- Prediction of fatigue crack growth under variable amplitude loading by artificial neural network-based Lagrange interpolation[J]. **Mechanics of Materials, 2022**.
+- [**10.1016/j.mechmat.2022.104309**](https://www.sciencedirect.com/science/article/abs/pii/S0167844223001283) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Lin Zhang**, Xiaohui Wei.
+
+- Prediction of variable amplitude fatigue crack growth life based on modified grey model[J]. **Engineering Failure Analysis, 2022**.
+- [**10.1016/j.engfailanal.2021.105939**](https://www.sciencedirect.com/science/article/abs/pii/S0167844223001283) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+</div>
+</div>
 
 # 🎖 Honors and Awards
 - *2023.10*, Information Technology Innovation Education and Teaching, Liaoning Provincial Department of Education. 
